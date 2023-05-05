@@ -1,5 +1,5 @@
 {
-  "name": "astify",
+  "name": "babel-astify",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
